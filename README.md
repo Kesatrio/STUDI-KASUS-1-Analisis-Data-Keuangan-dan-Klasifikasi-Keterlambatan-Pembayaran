@@ -1,1 +1,14 @@
-# STUDI-KASUS-1-Analisis-Data-Keuangan-dan-Klasifikasi-Keterlambatan-Pembayaran
+# Studi Kasus 1: Analisis Keuangan & Klasifikasi Keterlambatan Pembayaran
+Deskripsi
+Studi kasus ini mensimulasikan kebutuhan analisis data transaksi di perusahaan retail/distributor (seperti studi kasus PT Maju Bersama). Tujuannya adalah untuk membersihkan data dan melatih model Machine Learning dalam memprediksi apakah suatu transaksi atau invoice berpotensi mengalami keterlambatan pembayaran (late payment).
+
+Prasyarat Pustaka (Libraries)
+Pastikan Anda telah memasang pustaka berikut sebelum menjalankan program:
+
+Bash
+pip install pandas scikit-learn
+Cara Menjalankan
+Jalankan skrip melalui terminal:
+
+Bash
+python analysis.py
